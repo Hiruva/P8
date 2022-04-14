@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notebook">Notebook</string>
+    <string name="mati_re">Matière</string>
+    <string name="create_exam">Create exam</string>
+    <string name="liste_exams">Liste exams</string>
+    <string name="exit">Exit</string>
+    <string name="moyenne">Moyenne</string>
+    <string name="button">button</string>
+    <string name="coef">Coef</string>
+    <string name="ajouter">ajouter</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="actualiser">actualiser</string>
+    <string name="module">Module</string>
+    <string name="date">Date</string>
+    <string name="professeur">Professeur</string>
+    <string name="note">Note</string>
+    <string name="name">Name</string>
+    <string name="liste_exam">Liste Exam</string>
+</resources>
